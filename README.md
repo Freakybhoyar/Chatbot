@@ -13,4 +13,4 @@ This is a simple AI-powered chatbot built using FastAPI and LLaMA 3. The chatbot
 
 1. **The chatbot is live on the link below**:
    ```URL
-   http://34.28.161.96:8080/docs
+   http://34.72.140.161:8080/docs
