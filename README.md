@@ -11,6 +11,6 @@ This is a simple AI-powered chatbot built using FastAPI and LLaMA 3. The chatbot
 
 ## How to Run
 
-1. **Install Dependencies**:
-   ```bash
-   pip install fastapi uvicorn requests
+1. **The chatbot is live on the link below**:
+   ```URL
+   http://34.28.161.96:8080/docs
